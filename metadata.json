@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de imagenes propias",
+  "description": "a partir de una fotografia de una persona o cosa, genera lo que quieras",
+  "requestFramePermissions": []
+}
